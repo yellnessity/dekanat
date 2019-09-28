@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dekanat/static/css/main.cfda8877.chunk.css",
+    "main.js": "/dekanat/static/js/main.05247925.chunk.js",
+    "main.js.map": "/dekanat/static/js/main.05247925.chunk.js.map",
+    "runtime-main.js": "/dekanat/static/js/runtime-main.997cd9ff.js",
+    "runtime-main.js.map": "/dekanat/static/js/runtime-main.997cd9ff.js.map",
+    "static/js/2.a0cd2830.chunk.js": "/dekanat/static/js/2.a0cd2830.chunk.js",
+    "static/js/2.a0cd2830.chunk.js.map": "/dekanat/static/js/2.a0cd2830.chunk.js.map",
+    "index.html": "/dekanat/index.html",
+    "precache-manifest.c38ab1802393f9b30f6d0220c639618b.js": "/dekanat/precache-manifest.c38ab1802393f9b30f6d0220c639618b.js",
+    "service-worker.js": "/dekanat/service-worker.js",
+    "static/css/main.cfda8877.chunk.css.map": "/dekanat/static/css/main.cfda8877.chunk.css.map"
+  }
+}
