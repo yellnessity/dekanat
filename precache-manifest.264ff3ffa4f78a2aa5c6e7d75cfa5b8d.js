@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e68d3f9c97c6b6fedd303d1e99690a86",
+    "revision": "fb8bb370458090054167cf430bf60200",
     "url": "/dekanat/index.html"
   },
   {
-    "revision": "508112ae3e16baf0d4a5",
+    "revision": "8aa505f2007d662e3d60",
     "url": "/dekanat/static/css/main.cfda8877.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dekanat/static/js/2.a0cd2830.chunk.js"
   },
   {
-    "revision": "508112ae3e16baf0d4a5",
-    "url": "/dekanat/static/js/main.05247925.chunk.js"
+    "revision": "8aa505f2007d662e3d60",
+    "url": "/dekanat/static/js/main.2c95966b.chunk.js"
   },
   {
     "revision": "6e055b967a8fddbb3f93",

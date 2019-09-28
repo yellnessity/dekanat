@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/dekanat/precache-manifest.c38ab1802393f9b30f6d0220c639618b.js"
+  "/dekanat/precache-manifest.264ff3ffa4f78a2aa5c6e7d75cfa5b8d.js"
 );
 
 self.addEventListener('message', (event) => {
