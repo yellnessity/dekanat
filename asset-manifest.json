@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/dekanat/static/css/main.cfda8877.chunk.css",
-    "main.js": "/dekanat/static/js/main.2c95966b.chunk.js",
-    "main.js.map": "/dekanat/static/js/main.2c95966b.chunk.js.map",
+    "main.css": "/dekanat/static/css/main.62b4f37b.chunk.css",
+    "main.js": "/dekanat/static/js/main.d78ccbb4.chunk.js",
+    "main.js.map": "/dekanat/static/js/main.d78ccbb4.chunk.js.map",
     "runtime-main.js": "/dekanat/static/js/runtime-main.997cd9ff.js",
     "runtime-main.js.map": "/dekanat/static/js/runtime-main.997cd9ff.js.map",
-    "static/js/2.a0cd2830.chunk.js": "/dekanat/static/js/2.a0cd2830.chunk.js",
-    "static/js/2.a0cd2830.chunk.js.map": "/dekanat/static/js/2.a0cd2830.chunk.js.map",
+    "static/js/2.23e2e848.chunk.js": "/dekanat/static/js/2.23e2e848.chunk.js",
+    "static/js/2.23e2e848.chunk.js.map": "/dekanat/static/js/2.23e2e848.chunk.js.map",
     "index.html": "/dekanat/index.html",
-    "precache-manifest.264ff3ffa4f78a2aa5c6e7d75cfa5b8d.js": "/dekanat/precache-manifest.264ff3ffa4f78a2aa5c6e7d75cfa5b8d.js",
+    "precache-manifest.d274154298ccf2fe21365bf8d20582c4.js": "/dekanat/precache-manifest.d274154298ccf2fe21365bf8d20582c4.js",
     "service-worker.js": "/dekanat/service-worker.js",
-    "static/css/main.cfda8877.chunk.css.map": "/dekanat/static/css/main.cfda8877.chunk.css.map"
+    "static/css/main.62b4f37b.chunk.css.map": "/dekanat/static/css/main.62b4f37b.chunk.css.map",
+    "static/media/App.css": "/dekanat/static/media/bg.e4286d0c.jpg"
   }
 }
